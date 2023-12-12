@@ -239,31 +239,3 @@ https://s1.cystream.net/live/epistrofi/playlist.m3u8
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
-https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-#EXTINF:5860 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
-http://127.0.0.1:88/https://www.twitch.tv/verginachannel
-#EXTINF:5865 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",DION TV
-http://127.0.0.1:88/https://www.twitch.tv/diontvkentrikismakedonias
-#EXTINF:5765 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",STAR BE
-http://127.0.0.1:88/https://www.twitch.tv/tvstarfm
-#EXTINF:6005 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",FLASH TV
-http://127.0.0.1:88/https://www.twitch.tv/flashtvgr
-#EXTINF:5950 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",ASTRA TV
-http://127.0.0.1:88/https://www.twitch.tv/astratv2019
-#EXTINF:5710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CENTER TV
-http://127.0.0.1:88/https://www.twitch.tv/centertv
-#EXTINF:5955 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",THESSALIA TV
-http://127.0.0.1:88/https://www.twitch.tv/thessaliatv
-#EXTINF:5920 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",EURO CHANNEL
-http://127.0.0.1:88/https://www.twitch.tv/eurochannel
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",IONIA TV
-http://127.0.0.1:88/https://www.twitch.tv/tvioniathessalonikis
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",KONITSA TV
-http://127.0.0.1:88/https://www.twitch.tv/konitsaplustv
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV
-http://127.0.0.1:88/https://www.twitch.tv/xtvision
-#EXTINF:2221 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="",Bergina Tv Cy
-http://127.0.0.1:88/https://www.twitch.tv/verginacy
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARTS TIME
-http://127.0.0.1:88/https://www.twitch.tv/artstime
